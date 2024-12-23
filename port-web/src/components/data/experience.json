@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Research Analyst",
+    "organisation": "Kalinga University",
+    "startDate": "Aug, 2024",
+    "endDate": "Present",
+    "location": "Raipur, Chhatisgarh",
+    "experiences": [
+      "Worked on Design, Develop and test new algorithms, models and systems",
+      "Worked on Research Advancenets in area of AI & ML, database system data science and analytics"
+    ],
+    "imageSrc": "company/kalinga.png"
+  },
+  {
+    "id": 2,
+    "role": "Front-end & Back-end Developer - Intern",
+    "organisation": "Adyant Soft-Tech",
+    "startDate": "Feb, 2024",
+    "endDate": "July, 2024",
+    "location": "Raipur, Chhatisgarh",
+    "experiences": [
+      "Worked on the Front-end to design a attractive interface with React Technology ",
+      "Worked in the Back-end using Python and Django technology via Postman to store and send data"
+    ],
+    "imageSrc": "company/adyant.jpeg"
+  },
+  {
+    "id": 3,
+    "role": "Front-end Developer - Intern",
+    "organisation": "Itcian Technology",
+    "startDate": "Apr, 2023",
+    "endDate": "Nov, 2023",
+    "location": "Raipur, Chhatisgarh",
+    "experiences": [
+      "A well interactive UI web application designed",
+      "With the help of using HTML5 and Bootstrap technology"
+    ],
+    "imageSrc": "company/itcian.jpeg"
+  }
+]

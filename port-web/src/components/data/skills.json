@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React Js",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Bootstrap Framework",
+    "imageSrc": "skills/bootstrap.jpeg"
+  },
+  {
+    "title":"Python",
+    "imageSrc":"skills/python.jpeg"
+  },
+  {
+    "title": "Django Framework",
+    "imageSrc": "skills/django.png"
+  },
+  {
+    "title": "Microsoft Power Bi",
+    "imageSrc": "skills/powerbi.jpeg"
+  },
+  {
+    "title": "SQl Server",
+    "imageSrc": "skills/sql.png"
+  }
+]
