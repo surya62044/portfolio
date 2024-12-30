@@ -1,2 +1,2 @@
 # portfolio
-I developed this portfolio website using React Js, Css and python Django framework.
+I developed this portfolio website using HTML, CSS, JavaScript and React Js framework.
